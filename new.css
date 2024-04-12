@@ -1,0 +1,21 @@
+.container{
+
+
+    width:100%;
+    padding: 20 px;
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+
+@media screen and (max-width:  900px){
+
+    .container{
+        background-color: aqua;
+        text-align: left;
+    }
+}
+footer {
+
+background-color: azure;
+}

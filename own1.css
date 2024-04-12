@@ -1,0 +1,90 @@
+
+    .topnav{
+        background-color: purple;
+        padding: 10px;
+        border: none;
+        border-radius: 10px;
+    }
+    ul{
+        display: flex;
+        justify-content: center;
+    }
+
+    li{
+        list-style: none;
+        margin: 10px;
+        border: none;
+        background-color: bisque;
+        border-radius: 20px;
+        padding: 10px;
+    }
+
+    li:hover{
+        background-color:blueviolet;
+        color: white;
+        cursor: pointer;
+    }
+
+
+    p{
+        text-align: center;
+        font-size: 30px;
+        color: black;
+    }
+      .topnav{
+          background-color: purple;
+          padding: 10px;
+          border: none;
+          border-radius: 10px;
+      }
+      ul{
+          display: flex;
+          justify-content: center;
+      }
+  
+      li{
+          list-style: none;
+          margin: 10px;
+          border: none;
+          background-color: bisque;
+          border-radius: 20px;
+          padding: 10px;
+      }
+  
+      li:hover{
+          background-color:blueviolet;
+          color: white;
+          cursor: pointer;
+      }
+  table, th,td{
+        border: 5px solid black;
+
+  }
+
+  td,th{
+    font-size: 20px;
+    
+
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #520c18;
+    color: white;
+  }
+a{
+    text-decoration: none;
+}
